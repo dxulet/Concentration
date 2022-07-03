@@ -190,7 +190,7 @@ class Concentration {
     // The following Theme code is part of one of the extra credit tasks.
     // MARK: Extra credit 2
     // -------------------------
-    if let scoringDate = scoringDate {
+    if let scoringDate {
       let secondsBetweenFlips = Int(Date().timeIntervalSince(scoringDate))
       
       if secondsBetweenFlips < 2 {
