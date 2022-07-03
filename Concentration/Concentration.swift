@@ -2,7 +2,7 @@
 //  Concentration.swift
 //  Concentration
 //
-//  Created by Daulet Ashikbayev Lopes on 02/03/22.
+//  Created by Daulet Ashikbayev on 02/03/22.
 //  Copyright © 2022 Daulet Ashikbayev. All rights reserved.
 //
 
